@@ -110,6 +110,7 @@ else:
 
     print("Maintain or increase preparation")
 
+
     CONCLUSION
 
     The Smart Food Waste Reduction System is an innovative method in addressing food wastage through combining the knowledge of technology and user awareness. It provides a good way of overcoming wasteful overproduction of food by promoting sensible consumption.
